@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{89A3E5ED-63BC-42F2-8560-C4CFD704D401}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>HospitalAutomatsation</RootNamespace>
+    <AssemblyName>HospitalAutomatsation</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Components\NewButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Components\NewComboBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\NewDatePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Components\NewRadioButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Components\NewTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\NewTextBox.Designer.cs">
+      <DependentUpon>NewTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\NewToggleButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Forms\ChartsPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ChartsPage.Designer.cs">
+      <DependentUpon>ChartsPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Doctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Doctor.Designer.cs">
+      <DependentUpon>Doctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DoctorPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DoctorPage.Designer.cs">
+      <DependentUpon>DoctorPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormDoctorLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormDoctorLogin.Designer.cs">
+      <DependentUpon>FormDoctorLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\HomePage.Designer.cs">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Patient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Patient.Designer.cs">
+      <DependentUpon>Patient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Program.cs" />
+    <Compile Include="Forms\SecretaryPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SecretaryPage.Designer.cs">
+      <DependentUpon>SecretaryPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Forms\Secretary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Secretary.Designer.cs">
+      <DependentUpon>Secretary.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Components\NewTextBox.resx">
+      <DependentUpon>NewTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ChartsPage.resx">
+      <DependentUpon>ChartsPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Doctor.resx">
+      <DependentUpon>Doctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DoctorPage.resx">
+      <DependentUpon>DoctorPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormDoctorLogin.resx">
+      <DependentUpon>FormDoctorLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\HomePage.resx">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Patient.resx">
+      <DependentUpon>Patient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SecretaryPage.resx">
+      <DependentUpon>SecretaryPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Secretary.resx">
+      <DependentUpon>Secretary.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj">
+      <Project>{e0c06ba9-0db1-494b-84dd-2fe3b585e9d1}</Project>
+      <Name>DataAccessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EntitiyLayer\EntitiyLayer.csproj">
+      <Project>{7cf306c4-0538-49d3-999d-599ba39a228a}</Project>
+      <Name>EntitiyLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LogicLayer\LogicLayer.csproj">
+      <Project>{9445cbf7-3e68-4cf7-aeb5-db04cf3445d9}</Project>
+      <Name>LogicLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medical-team1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendarDark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendarWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doctor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\secretary.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doctor16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\secretary16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\secretary24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\secretary24green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doctor24green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\secretary128green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\secretary64green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doctor64green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medical-team64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doctor128green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye0_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye0_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye1_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\patient128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\patient64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\patient24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medical-appointment64.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\baris\source\repos\181001036_BarisBalcikoca\HospitalAutomatsation\HospitalAutomatsation\EntitiyLayer\bin\Debug\EntitiyLayer.dll
+C:\Users\baris\source\repos\181001036_BarisBalcikoca\HospitalAutomatsation\HospitalAutomatsation\EntitiyLayer\bin\Debug\EntitiyLayer.pdb
+C:\Users\baris\source\repos\181001036_BarisBalcikoca\HospitalAutomatsation\HospitalAutomatsation\EntitiyLayer\obj\Debug\EntitiyLayer.csproj.AssemblyReference.cache
+C:\Users\baris\source\repos\181001036_BarisBalcikoca\HospitalAutomatsation\HospitalAutomatsation\EntitiyLayer\obj\Debug\EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\baris\source\repos\181001036_BarisBalcikoca\HospitalAutomatsation\HospitalAutomatsation\EntitiyLayer\obj\Debug\EntitiyLayer.dll
+C:\Users\baris\source\repos\181001036_BarisBalcikoca\HospitalAutomatsation\HospitalAutomatsation\EntitiyLayer\obj\Debug\EntitiyLayer.pdb
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\EntitiyLayer\bin\Debug\EntitiyLayer.dll
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\EntitiyLayer\bin\Debug\EntitiyLayer.pdb
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\EntitiyLayer\obj\Debug\EntitiyLayer.csproj.AssemblyReference.cache
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\EntitiyLayer\obj\Debug\EntitiyLayer.csproj.CoreCompileInputs.cache
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\EntitiyLayer\obj\Debug\EntitiyLayer.dll
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\EntitiyLayer\obj\Debug\EntitiyLayer.pdb

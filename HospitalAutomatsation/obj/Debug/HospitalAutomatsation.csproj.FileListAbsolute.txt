@@ -1,0 +1,122 @@
+C:\Users\baris\source\repos\181001036_BarisBalcikoca\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\HospitalAutomatsation.exe.config
+C:\Users\baris\source\repos\181001036_BarisBalcikoca\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\HospitalAutomatsation.exe
+C:\Users\baris\source\repos\181001036_BarisBalcikoca\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\HospitalAutomatsation.pdb
+C:\Users\baris\source\repos\181001036_BarisBalcikoca\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\DataAccessLayer.dll
+C:\Users\baris\source\repos\181001036_BarisBalcikoca\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\EntitiyLayer.dll
+C:\Users\baris\source\repos\181001036_BarisBalcikoca\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\LogicLayer.dll
+C:\Users\baris\source\repos\181001036_BarisBalcikoca\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\DataAccessLayer.pdb
+C:\Users\baris\source\repos\181001036_BarisBalcikoca\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\EntitiyLayer.pdb
+C:\Users\baris\source\repos\181001036_BarisBalcikoca\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\LogicLayer.pdb
+C:\Users\baris\source\repos\181001036_BarisBalcikoca\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.csproj.AssemblyReference.cache
+C:\Users\baris\source\repos\181001036_BarisBalcikoca\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.csproj.SuggestedBindingRedirects.cache
+C:\Users\baris\source\repos\181001036_BarisBalcikoca\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Properties.Resources.resources
+C:\Users\baris\source\repos\181001036_BarisBalcikoca\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.csproj.GenerateResource.cache
+C:\Users\baris\source\repos\181001036_BarisBalcikoca\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.csproj.CoreCompileInputs.cache
+C:\Users\baris\source\repos\181001036_BarisBalcikoca\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.csproj.CopyComplete
+C:\Users\baris\source\repos\181001036_BarisBalcikoca\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.exe
+C:\Users\baris\source\repos\181001036_BarisBalcikoca\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.pdb
+C:\Users\baris\source\repos\181001036_BarisBalcikoca\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Secretary.resources
+C:\Users\baris\source\repos\181001036_BarisBalcikoca\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Patient.resources
+C:\Users\baris\source\repos\181001036_BarisBalcikoca\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Doctor.resources
+C:\Users\baris\source\repos\181001036_BarisBalcikoca\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.HomePage.resources
+C:\Users\baris\source\repos\181001036_BarisBalcikoca\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Forms.FormDoctorLogin.resources
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\HospitalAutomatsation.exe.config
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\HospitalAutomatsation.exe
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\HospitalAutomatsation.pdb
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\DataAccessLayer.dll
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\EntitiyLayer.dll
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\LogicLayer.dll
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\DataAccessLayer.pdb
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\EntitiyLayer.pdb
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\LogicLayer.pdb
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.csproj.AssemblyReference.cache
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.csproj.SuggestedBindingRedirects.cache
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Doctor.resources
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Forms.FormDoctorLogin.resources
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.HomePage.resources
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Patient.resources
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Properties.Resources.resources
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Secretary.resources
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.csproj.GenerateResource.cache
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.csproj.CoreCompileInputs.cache
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.csproj.CopyComplete
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.exe
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.pdb
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Components.NewTextBox.resources
+D:\26Aralık2022\HospitalAutomatsation\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Forms.SecretaryPage.resources
+E:\19.01.2022\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\HospitalAutomatsation.exe.config
+E:\19.01.2022\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\HospitalAutomatsation.exe
+E:\19.01.2022\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\HospitalAutomatsation.pdb
+E:\19.01.2022\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\DataAccessLayer.dll
+E:\19.01.2022\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\EntitiyLayer.dll
+E:\19.01.2022\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\LogicLayer.dll
+E:\19.01.2022\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\DataAccessLayer.pdb
+E:\19.01.2022\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\EntitiyLayer.pdb
+E:\19.01.2022\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\LogicLayer.pdb
+E:\19.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.csproj.AssemblyReference.cache
+E:\19.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.csproj.SuggestedBindingRedirects.cache
+E:\19.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Components.NewTextBox.resources
+E:\19.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Doctor.resources
+E:\19.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Forms.FormDoctorLogin.resources
+E:\19.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.HomePage.resources
+E:\19.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Patient.resources
+E:\19.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Forms.SecretaryPage.resources
+E:\19.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Properties.Resources.resources
+E:\19.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Secretary.resources
+E:\19.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.csproj.GenerateResource.cache
+E:\19.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.csproj.CoreCompileInputs.cache
+E:\19.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.csproj.CopyComplete
+E:\19.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.exe
+E:\19.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.pdb
+E:\20.01.2022\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\HospitalAutomatsation.exe.config
+E:\20.01.2022\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\HospitalAutomatsation.exe
+E:\20.01.2022\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\HospitalAutomatsation.pdb
+E:\20.01.2022\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\DataAccessLayer.dll
+E:\20.01.2022\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\EntitiyLayer.dll
+E:\20.01.2022\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\LogicLayer.dll
+E:\20.01.2022\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\DataAccessLayer.pdb
+E:\20.01.2022\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\EntitiyLayer.pdb
+E:\20.01.2022\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\LogicLayer.pdb
+E:\20.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.csproj.AssemblyReference.cache
+E:\20.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.csproj.SuggestedBindingRedirects.cache
+E:\20.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Components.NewTextBox.resources
+E:\20.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Doctor.resources
+E:\20.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Forms.FormDoctorLogin.resources
+E:\20.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.HomePage.resources
+E:\20.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Patient.resources
+E:\20.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Forms.SecretaryPage.resources
+E:\20.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Properties.Resources.resources
+E:\20.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Secretary.resources
+E:\20.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.csproj.GenerateResource.cache
+E:\20.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.csproj.CoreCompileInputs.cache
+E:\20.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.csproj.CopyComplete
+E:\20.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.exe
+E:\20.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.pdb
+E:\20.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Forms.DoctorPage.resources
+E:\20.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Forms.ChartsPage.resources
+D:\Tüm Ders Notları\4.Sınıf\4.Sınıf 1.Dönem\Görsel Programlama\22.01.2022\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\HospitalAutomatsation.exe.config
+D:\Tüm Ders Notları\4.Sınıf\4.Sınıf 1.Dönem\Görsel Programlama\22.01.2022\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\HospitalAutomatsation.exe
+D:\Tüm Ders Notları\4.Sınıf\4.Sınıf 1.Dönem\Görsel Programlama\22.01.2022\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\HospitalAutomatsation.pdb
+D:\Tüm Ders Notları\4.Sınıf\4.Sınıf 1.Dönem\Görsel Programlama\22.01.2022\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\DataAccessLayer.dll
+D:\Tüm Ders Notları\4.Sınıf\4.Sınıf 1.Dönem\Görsel Programlama\22.01.2022\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\EntitiyLayer.dll
+D:\Tüm Ders Notları\4.Sınıf\4.Sınıf 1.Dönem\Görsel Programlama\22.01.2022\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\LogicLayer.dll
+D:\Tüm Ders Notları\4.Sınıf\4.Sınıf 1.Dönem\Görsel Programlama\22.01.2022\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\DataAccessLayer.pdb
+D:\Tüm Ders Notları\4.Sınıf\4.Sınıf 1.Dönem\Görsel Programlama\22.01.2022\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\EntitiyLayer.pdb
+D:\Tüm Ders Notları\4.Sınıf\4.Sınıf 1.Dönem\Görsel Programlama\22.01.2022\HospitalAutomatsation\HospitalAutomatsation\bin\Debug\LogicLayer.pdb
+D:\Tüm Ders Notları\4.Sınıf\4.Sınıf 1.Dönem\Görsel Programlama\22.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.csproj.AssemblyReference.cache
+D:\Tüm Ders Notları\4.Sınıf\4.Sınıf 1.Dönem\Görsel Programlama\22.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.csproj.SuggestedBindingRedirects.cache
+D:\Tüm Ders Notları\4.Sınıf\4.Sınıf 1.Dönem\Görsel Programlama\22.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Components.NewTextBox.resources
+D:\Tüm Ders Notları\4.Sınıf\4.Sınıf 1.Dönem\Görsel Programlama\22.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Forms.ChartsPage.resources
+D:\Tüm Ders Notları\4.Sınıf\4.Sınıf 1.Dönem\Görsel Programlama\22.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Doctor.resources
+D:\Tüm Ders Notları\4.Sınıf\4.Sınıf 1.Dönem\Görsel Programlama\22.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Forms.DoctorPage.resources
+D:\Tüm Ders Notları\4.Sınıf\4.Sınıf 1.Dönem\Görsel Programlama\22.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Forms.FormDoctorLogin.resources
+D:\Tüm Ders Notları\4.Sınıf\4.Sınıf 1.Dönem\Görsel Programlama\22.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.HomePage.resources
+D:\Tüm Ders Notları\4.Sınıf\4.Sınıf 1.Dönem\Görsel Programlama\22.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Patient.resources
+D:\Tüm Ders Notları\4.Sınıf\4.Sınıf 1.Dönem\Görsel Programlama\22.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Forms.SecretaryPage.resources
+D:\Tüm Ders Notları\4.Sınıf\4.Sınıf 1.Dönem\Görsel Programlama\22.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Properties.Resources.resources
+D:\Tüm Ders Notları\4.Sınıf\4.Sınıf 1.Dönem\Görsel Programlama\22.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.Secretary.resources
+D:\Tüm Ders Notları\4.Sınıf\4.Sınıf 1.Dönem\Görsel Programlama\22.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.csproj.GenerateResource.cache
+D:\Tüm Ders Notları\4.Sınıf\4.Sınıf 1.Dönem\Görsel Programlama\22.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.csproj.CoreCompileInputs.cache
+D:\Tüm Ders Notları\4.Sınıf\4.Sınıf 1.Dönem\Görsel Programlama\22.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.csproj.CopyComplete
+D:\Tüm Ders Notları\4.Sınıf\4.Sınıf 1.Dönem\Görsel Programlama\22.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.exe
+D:\Tüm Ders Notları\4.Sınıf\4.Sınıf 1.Dönem\Görsel Programlama\22.01.2022\HospitalAutomatsation\HospitalAutomatsation\obj\Debug\HospitalAutomatsation.pdb
