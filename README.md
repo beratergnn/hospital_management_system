@@ -1,5 +1,5 @@
 # HOSTPİTAL MANAGEMENT SYSTEM
-Hospital Management System with Visual Studio .Net Framework, Layered Architecture, OOP
+The project was developed using C# programming language and .NET Framework. In addition, a database such as Microsoft SQL Server was used. The project is designed based on the principles of Layered Architecture and OOP.
 
 ## Videos
 https://youtu.be/OsOTJ7g_pNk
